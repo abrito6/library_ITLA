@@ -1,18 +1,8 @@
-/*
- * Menu.h
- *
- *  Created on: May 23, 2016
- *      Author: raydelto
- */
-
-#ifndef MENU_H_
-#define MENU_H_
-
-class Menu
-{
-	public:
-		void show();
-		Menu();
-};
-
-#endif /* MENU_H_ */
+* Menu.h
+   *
+   *  Created on: May 23, 2016
+ - *      Author: raydelto
+ + *      Author: raydelto y angel
+   */
+  
+  #ifndef MENU_H_
